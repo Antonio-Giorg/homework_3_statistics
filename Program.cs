@@ -65,7 +65,7 @@ namespace FormForExcercise
         {
             using (Graphics g = Graphics.FromImage(graphBitmap))
             {
-                int padding = 20;
+                int padding = 100;
                 int width = graphBitmap.Width - 2 * padding;
                 int height = graphBitmap.Height - 2 * padding;
                 int xMin = 0;
@@ -92,6 +92,12 @@ namespace FormForExcercise
                     g.DrawLine(axisPen, padding - 5, y, padding + 5, y);
                     g.DrawString(i.ToString(), font, Brushes.Black, padding - 30, y - 10);
                 }
+
+                axisPen = new Pen(Color.Red, 2);
+
+                //         Pen        x1          y1                  x2                  y2
+                //g.DrawLine(axisPen, padding, padding + height , padding + width + 6, padding + height + 6);
+                g.DrawLine(axisPen, padding, padding + height ,  6, 6);
             }
 
             pictureBox1.Invalidate();
