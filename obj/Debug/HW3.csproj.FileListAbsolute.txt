@@ -1,9 +1,0 @@
-C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\HW3.exe.config
-C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\HW3.exe
-C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\HW3.pdb
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.csproj.AssemblyReference.cache
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.Properties.Resources.resources
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.csproj.GenerateResource.cache
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.csproj.CoreCompileInputs.cache
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.exe
-C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\HW3.pdb
