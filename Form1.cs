@@ -16,12 +16,8 @@ namespace FormForExcercise
         {
             InitializeComponent();
 
-            LineChart chart = new LineChart(pictureBox1);
-
-            chart.Draw(this.Font);
-
-
-
+            LineChart chart = new LineChart(this, pictureBox1);
+           
         }
 
         

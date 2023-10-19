@@ -26,7 +26,7 @@ namespace FormForExcercise
 
         private Bitmap graphBitmap;
 
-        public LineChart(PictureBox pictureBox)
+        public LineChart(Form form, PictureBox pictureBox)
         {
 
             this.pictureBox1 = pictureBox;
@@ -58,10 +58,12 @@ namespace FormForExcercise
             graphBitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             pictureBox1.Image = graphBitmap;
 
+            DrawAxies(form);
 
+            pictureBox1.Invalidate();
         }
 
-        public void Draw(Font font)
+        public void DrawAxies(Form form)
         {
             using (Graphics g = Graphics.FromImage(graphBitmap))
             {
@@ -83,24 +85,26 @@ namespace FormForExcercise
                 {
                     int x = padding + (i - xMin) * width / (xMax - xMin);
                     g.DrawLine(axisPen, x, padding + height - 5, x, padding + height + 5);
-                    g.DrawString(i.ToString(), font, Brushes.Black, x - 10, padding + height + 10);
+                    g.DrawString(i.ToString(), form.Font, Brushes.Black, x - 10, padding + height + 10);
                 }
 
                 for (int i = yMin; i <= yMax; i++)
                 {
                     int y = padding + height - (i - yMin) * height / (yMax - yMin);
                     g.DrawLine(axisPen, padding - 5, y, padding + 5, y);
-                    g.DrawString(i.ToString(), font, Brushes.Black, padding - 30, y - 10);
+                    g.DrawString(i.ToString(), form.Font, Brushes.Black, padding - 30, y - 10);
                 }
 
-                axisPen = new Pen(Color.Red, 2);
-
-                //         Pen        x1          y1                  x2                  y2
-                //g.DrawLine(axisPen, padding, padding + height , padding + width + 6, padding + height + 6);
-                g.DrawLine(axisPen, padding, padding + height ,  6, 6);
             }
 
-            pictureBox1.Invalidate();
+        }
+        public void DrawCharth()
+        {
+            using (Graphics g = Graphics.FromImage(graphBitmap))
+            {
+                Pen axisPen = new Pen(Color.Black, 2);
+
+            }
         }
     }
 }

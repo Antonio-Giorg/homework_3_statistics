@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\giorg\\.nuget\\packages\\": {}
+    "C:\\Users\\concu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\magistrale\\statistics\\homework_3\\FormForExcercise\\FormForExcercise.csproj",
+      "projectUniqueName": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
       "projectName": "FormForExcercise",
-      "projectPath": "D:\\magistrale\\statistics\\homework_3\\FormForExcercise\\FormForExcercise.csproj",
-      "packagesPath": "C:\\Users\\giorg\\.nuget\\packages\\",
-      "outputPath": "D:\\magistrale\\statistics\\homework_3\\FormForExcercise\\obj\\",
+      "projectPath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
+      "packagesPath": "C:\\Users\\concu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\giorg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\concu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
