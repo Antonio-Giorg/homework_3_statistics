@@ -15,6 +15,7 @@ D:\magistrale\statistics\homework_3\FormForExcercise\obj\Debug\net6.0-windows\re
 D:\magistrale\statistics\homework_3\FormForExcercise\obj\Debug\net6.0-windows\FormForExcercise.pdb
 D:\magistrale\statistics\homework_3\FormForExcercise\obj\Debug\net6.0-windows\FormForExcercise.genruntimeconfig.cache
 D:\magistrale\statistics\homework_3\FormForExcercise\obj\Debug\net6.0-windows\ref\FormForExcercise.dll
+<<<<<<< HEAD
 C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.exe
 C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.deps.json
 C:\Users\concu\Desktop\HW3\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.runtimeconfig.json
@@ -31,3 +32,21 @@ C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\net6.0-windows\refint
 C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.pdb
 C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.genruntimeconfig.cache
 C:\Users\concu\Desktop\HW3\homework_3_statistics\obj\Debug\net6.0-windows\ref\FormForExcercise.dll
+=======
+C:\Users\simon\source\repos\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.exe
+C:\Users\simon\source\repos\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.deps.json
+C:\Users\simon\source\repos\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.runtimeconfig.json
+C:\Users\simon\source\repos\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.dll
+C:\Users\simon\source\repos\homework_3_statistics\bin\Debug\net6.0-windows\FormForExcercise.pdb
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.Form1.resources
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.AssemblyInfo.cs
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.dll
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\refint\FormForExcercise.dll
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.pdb
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\FormForExcercise.genruntimeconfig.cache
+C:\Users\simon\source\repos\homework_3_statistics\obj\Debug\net6.0-windows\ref\FormForExcercise.dll
+>>>>>>> b98550ad478a3416129d4401fdffb26b5e3db9fb

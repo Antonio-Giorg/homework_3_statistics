@@ -8,19 +8,47 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
+<<<<<<< Updated upstream
+<<<<<<< HEAD
     "C:\\Users\\concu\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\simon\\.nuget\\packages\\": {}
+>>>>>>> b98550ad478a3416129d4401fdffb26b5e3db9fb
+=======
+    "C:\\Users\\concu\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
       "projectUniqueName": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
       "projectName": "FormForExcercise",
       "projectPath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
       "packagesPath": "C:\\Users\\concu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\obj\\",
+<<<<<<< Updated upstream
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\concu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj",
+      "projectName": "FormForExcercise",
+      "projectPath": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj",
+      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b98550ad478a3416129d4401fdffb26b5e3db9fb
+=======
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\concu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

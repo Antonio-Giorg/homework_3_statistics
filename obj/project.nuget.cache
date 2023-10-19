@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
+<<<<<<< HEAD
   "dgSpecHash": "0KkNEaFq0dw04g8eZaB4ubdr5gYulirUYZT+jBzS38Lx1bEoTGEaPFAmr+irquDvqj9mHrCytiw4Vk7kLiWgww==",
   "success": true,
   "projectFilePath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
+=======
+  "dgSpecHash": "cvgopOKqreujNE/2s/+lY0GusNW/Eke7p8BLFzuJXQqJeycBTF8u6/D3aCzAwZeLhhNzClbZgy63UTUXxsli2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj",
+>>>>>>> b98550ad478a3416129d4401fdffb26b5e3db9fb
+=======
+  "dgSpecHash": "0KkNEaFq0dw04g8eZaB4ubdr5gYulirUYZT+jBzS38Lx1bEoTGEaPFAmr+irquDvqj9mHrCytiw4Vk7kLiWgww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\concu\\Desktop\\HW3\\homework_3_statistics\\FormForExcercise.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
