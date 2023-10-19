@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Source\\Repos\\homework_3_statistics\\FormForExcercise.csproj": {}
+    "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Source\\Repos\\homework_3_statistics\\FormForExcercise.csproj": {
+    "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\homework_3_statistics\\FormForExcercise.csproj",
+        "projectUniqueName": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj",
         "projectName": "FormForExcercise",
-        "projectPath": "C:\\Users\\simon\\Source\\Repos\\homework_3_statistics\\FormForExcercise.csproj",
+        "projectPath": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\FormForExcercise.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Source\\Repos\\homework_3_statistics\\obj\\",
+        "outputPath": "C:\\Users\\simon\\source\\repos\\homework_3_statistics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
