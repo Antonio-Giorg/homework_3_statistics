@@ -1,16 +1,21 @@
-namespace FormForExcercise
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace homework_3_statistics
 {
     internal static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        /// Punto di ingresso principale dell'applicazione.
         /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
     }

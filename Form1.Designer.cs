@@ -1,16 +1,16 @@
-﻿namespace FormForExcercise
+﻿namespace homework_3_statistics
 {
     partial class Form1
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Variabile di progettazione necessaria.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Pulire le risorse in uso.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">ha valore true se le risorse gestite devono essere eliminate, false in caso contrario.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,11 +20,11 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Codice generato da Progettazione Windows Form
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Metodo necessario per il supporto della finestra di progettazione. Non modificare
+        /// il contenuto del metodo con l'editor di codice.
         /// </summary>
         private void InitializeComponent()
         {
@@ -37,3 +37,4 @@
         #endregion
     }
 }
+
